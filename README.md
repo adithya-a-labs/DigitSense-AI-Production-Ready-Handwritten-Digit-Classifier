@@ -1,0 +1,2 @@
+# DigitSense-AI-Production-Ready-Handwritten-Digit-Classifier
+DigitSense AI is a production-oriented deep learning project that builds, evaluates, and deploys a convolutional neural network (CNN) for handwritten digit recognition. Unlike basic MNIST notebooks, this project is structured as a complete machine learning system with modular code, experiment tracking, and an interactive user interface.v
